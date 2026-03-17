@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bea</h1>
 <h3 align="center">Web Developer | React • Node • AI • RAG</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;React+%7C+Node+%7C+MongoDB;Building+AI+powered+apps&center=true&width=500&height=50">
