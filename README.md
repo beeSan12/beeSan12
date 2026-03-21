@@ -69,6 +69,9 @@ Real-time sensor data visualization with MQTT & React
 ### 🎬 [GraphQL Movie API](https://github.com/dittrepo)
 Full backend with authentication, testing & CI/CD
 
+### 🩺 [Health Care Web App](https://recept-24-7-example.vercel.app/)
+Digital healthcare app with login, role-based views (patient/staff), and journal management built with React, TypeScript & Vite.
+
 
 
 ## 📫 Connect with me
