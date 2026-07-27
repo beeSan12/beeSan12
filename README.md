@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Web programming student (Graduating 2026)
+- 🎓 Web programmer with bachelor's degree
 - 🧠 Interested in AI, RAG & Cloud
 - 🚀 Building fullstack apps with real-world impact
 - 💡 Former preschool teacher → strong communication & patience
