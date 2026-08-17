@@ -76,8 +76,8 @@ Digital healthcare app with login, role-based views (patient/staff), and journal
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: [http://www.linkedin.com/in/beatriz-sanssi]
-- 🌐 Portfolio: [https://www.sanssi.dev]
+- 💼 LinkedIn: http://www.linkedin.com/in/beatriz-sanssi
+- 🌐 Portfolio: https://www.sanssi.dev
 - 📧 Email: bea.sanssi@gmail.com
 
 
